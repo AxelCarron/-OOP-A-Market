@@ -1,0 +1,9 @@
+C:\Programacion\SEMI\Guia N 2.5\Guia N 2.5\bin\Debug\Guia N 2.5.exe.config
+C:\Programacion\SEMI\Guia N 2.5\Guia N 2.5\bin\Debug\Guia N 2.5.exe
+C:\Programacion\SEMI\Guia N 2.5\Guia N 2.5\bin\Debug\Guia N 2.5.pdb
+C:\Programacion\SEMI\Guia N 2.5\Guia N 2.5\obj\Debug\Guia N 2.5.csprojResolveAssemblyReference.cache
+C:\Programacion\SEMI\Guia N 2.5\Guia N 2.5\obj\Debug\Guia_N_2._5.Form1.resources
+C:\Programacion\SEMI\Guia N 2.5\Guia N 2.5\obj\Debug\Guia_N_2._5.Properties.Resources.resources
+C:\Programacion\SEMI\Guia N 2.5\Guia N 2.5\obj\Debug\Guia N 2.5.csproj.GenerateResource.Cache
+C:\Programacion\SEMI\Guia N 2.5\Guia N 2.5\obj\Debug\Guia N 2.5.exe
+C:\Programacion\SEMI\Guia N 2.5\Guia N 2.5\obj\Debug\Guia N 2.5.pdb
